@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://student.cloud.htl-leonding.ac.at/l.pichler/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2023 09:21:10 +0100</lastBuildDate><atom:link href="https://student.cloud.htl-leonding.ac.at/l.pichler/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start Page</title>
+      <link>https://student.cloud.htl-leonding.ac.at/l.pichler/homepage/start-page/</link>
+      <pubDate>Fri, 10 Mar 2023 09:21:10 +0100</pubDate>
+      
+      <guid>https://student.cloud.htl-leonding.ac.at/l.pichler/homepage/start-page/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+    <item>
+      <title>Start Page</title>
+      <link>https://student.cloud.htl-leonding.ac.at/l.pichler/start/start-page/</link>
+      <pubDate>Fri, 10 Mar 2023 09:21:10 +0100</pubDate>
+      
+      <guid>https://student.cloud.htl-leonding.ac.at/l.pichler/start/start-page/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
