@@ -24,6 +24,6 @@ jobs:
           # GitHub Action output files
           source-directory: homepage/public
           destination-github-username: larapichler
-          destination-repository-name: larapichler.github.io
+          destination-repository-name: larapichler.github.io 
           user-email: lara.pichler0508@gmail.com
           
